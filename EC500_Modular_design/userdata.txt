@@ -1,0 +1,3 @@
+patient1 20 male 71 88 112 0 28 2
+patient2 22 female 65 95 600 90 36.5 2
+patient1 20 male 60 88 110 88 37 3

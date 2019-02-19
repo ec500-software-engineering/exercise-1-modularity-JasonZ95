@@ -1,7 +1,7 @@
 from input_api import input_api
 from Database_Module import DataBaseModule
 from Analyzer import Analyzer
-from OutputAlert_module import OutputAlert_module
+from OutputAlert_module import receive_basic_iuput_data
 import queue
 import threading
 import time
